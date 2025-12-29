@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Johan 👋</h1>
 </div>
-<img src="https://imgur.com/a/b1eQm1k.jpg">
+[Imgur](https://imgur.com/xt0K9MU)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
